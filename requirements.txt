@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+numpy
+pandas
+matplotlib
+ipykernel
+requests
